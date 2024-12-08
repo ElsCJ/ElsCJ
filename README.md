@@ -1,4 +1,4 @@
-## CJEls
+## ElsCJ
 
 # Learning Data Science... 👋
 
